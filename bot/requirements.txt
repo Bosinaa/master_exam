@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.27.0
+sentence-transformers==4.1.0
+torch==2.3.0                     
+numpy==2.1.0                     
+qdrant-client==1.14.2
